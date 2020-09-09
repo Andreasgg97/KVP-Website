@@ -283,27 +283,21 @@ hr.socket {
 /* Media Queries */
 @media (max-width: 375px) {
     .caption h1 {
-        font-size: 1.3rem;
-        letter-spacing: 0.1rem;
-        padding-bottom: .3rem;
+        font-size: 1.5rem !important;
+        letter-spacing: 0.15rem !important;
+        padding-bottom: .3rem !important;
     }
 
     .caption h3 {
-        font-size: 0.5rem;
-        padding-bottom: 1rem;
+        font-size: 0.9rem !important;
+        padding-bottom: 0.7rem !important;
     }
 
     .btn-lg {
-        padding: 0.2rem 0.4rem;
-        font-size: 0.5rem;
-        font-weight: 200;
+        padding: 0.2rem 0.3rem !important;
+        font-size: 0.6rem !important;
+        font-weight: 300 !important;
     }
-    #projekte img {
-        padding-top: 30px;
-        height: auto;
-    }
-
-
 }
 
 @media (max-width: 767px) {
