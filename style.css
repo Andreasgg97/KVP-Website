@@ -298,6 +298,11 @@ hr.socket {
         font-size: 0.5rem;
         font-weight: 200;
     }
+    #projekte img {
+        padding-top: 30px;
+        height: auto;
+    }
+
 
 }
 
