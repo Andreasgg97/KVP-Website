@@ -281,6 +281,25 @@ hr.socket {
 
 
 /* Media Queries */
+@media (max-width: 375px) {
+    .caption h1 {
+        font-size: 1.3rem;
+        letter-spacing: 0.1rem;
+        padding-bottom: .3rem;
+    }
+
+    .caption h3 {
+        font-size: 0.7rem;
+        padding-bottom: 1rem;
+    }
+
+    .btn-lg {
+        padding: 0.4rem 0.7rem;
+        font-size: 0.7rem;
+        font-weight: 600;
+    }
+
+}
 
 @media (max-width: 767px) {
     .caption h1 {
