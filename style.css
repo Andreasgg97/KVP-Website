@@ -321,9 +321,9 @@ hr.socket {
 
 }
 
-@media (max-width: 1366px) {
+@media (max-width: 1466px) {
     #projekte img {
-        padding-top: 140px;
+        padding-top: 145px;
         height: auto;
     }
 
